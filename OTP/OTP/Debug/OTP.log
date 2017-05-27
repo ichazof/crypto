@@ -1,9 +1,9 @@
 ﻿  Source.cpp
-c:\users\илья\documents\github\crypto\otp\otp\source.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note:  см. объявление "strcpy"
-c:\users\илья\documents\github\crypto\otp\otp\source.cpp(26): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\илья\documents\github\crypto\otp\otp\source.cpp(24): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
-c:\users\илья\documents\github\crypto\otp\otp\source.cpp(80): warning C4018: <: несоответствие типов со знаком и без знака
-c:\users\илья\documents\github\crypto\otp\otp\source.cpp(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\илья\documents\github\crypto\otp\otp\source.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note:  см. объявление "fopen"
+c:\users\илья\documents\github\crypto\otp\otp\source.cpp(104): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\github\crypto\otp\otp\source.cpp(139): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\илья\documents\github\crypto\otp\otp\source.cpp(196): warning C4018: <: несоответствие типов со знаком и без знака
   OTP.vcxproj -> C:\Users\Илья\Documents\GitHub\crypto\OTP\Debug\OTP.exe

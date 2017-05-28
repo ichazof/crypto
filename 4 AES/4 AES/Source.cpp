@@ -136,6 +136,7 @@ public:
 				iv[i] = _iv.GetData().at(i);
 			}
 		}
+		system("cls");
 		std::cout << "encrypting..";
 
 		_ciphertext.GetData().resize(plaintext.GetData().size() + CryptoPP::AES::BLOCKSIZE);

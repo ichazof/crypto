@@ -51,7 +51,7 @@ build/
 [Oo]bj/
 .vs/
 *.VC.db
-
+*.VC.VC.opendb
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
